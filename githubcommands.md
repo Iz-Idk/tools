@@ -61,4 +61,3 @@ git push origin main -f       # Forzar el push de main a GitHub
 ✅ **¡Listo! Ahora tu código está correctamente subido y sincronizado en GitHub.**  
 ```
 
-Puedes copiar y pegar este contenido en un archivo `.md` y usarlo directamente en GitHub o cualquier otro visor de Markdown. ¿Te gustaría agregar más detalles o explicaciones? 🚀
